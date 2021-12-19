@@ -13,3 +13,6 @@
 //= require rails-ujs
 //= require activestorage
 //= require_tree .
+
+import 'bootstrap-material-design'
+import '../stylesheets/application'
