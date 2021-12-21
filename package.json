@@ -1,5 +1,7 @@
 {
   "name": "instaclone",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap-material-design": "^4.1.3"
+  }
 }
